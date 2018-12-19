@@ -1,0 +1,2 @@
+# puppetrepo
+devops class 
