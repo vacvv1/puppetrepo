@@ -1,3 +1,3 @@
-package { 'tomcat'
+package { 'tomcat':
   ensure => present
 }
